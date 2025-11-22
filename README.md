@@ -100,4 +100,3 @@ Este projeto foi desenvolvido para fins educacionais durante a Imersão Dev da A
 ![JSON](https://img.shields.io/badge/JSON-F7DF1E?style=for-the-badge&logo=json&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-4CAF50?style=for-the-badge&logo=css3&logoColor=white)
-![Flexbox](https://img.shields.io/badge/Flexbox-FF6F61?style=for-the-badge&logo=css3&logoColor=white)
