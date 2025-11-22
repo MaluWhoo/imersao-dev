@@ -97,6 +97,7 @@ Este projeto foi desenvolvido para fins educacionais durante a Imersão Dev da A
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JSON](https://img.shields.io/badge/JSON-F7DF1E?style=for-the-badge&logo=json&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-4CAF50?style=for-the-badge&logo=css3&logoColor=white)
 ![Flexbox](https://img.shields.io/badge/Flexbox-FF6F61?style=for-the-badge&logo=css3&logoColor=white)
