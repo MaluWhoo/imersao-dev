@@ -253,7 +253,7 @@
   },
   {
     "nome": "Lewis",
-    "icone": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Pierre_Icon.png",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Lewis_Icon.png",
     "frase": "Como prefeito, tenho que manter as aparências.",
     "descricao": "O prefeito da Vila Pelicanos. Ele está sempre ocupado com tarefas administrativas e preocupado com a reputação da cidade, e tem um relacionamento secreto com Marnie.",
     "aniversario": "7 de Primavera",
@@ -671,4 +671,5 @@
     "endereco": "Mora no Rancho da Marnie, ao lado da floresta.",
     "link": "https://stardewvalleywiki.com/Jas"
   }
+
 ]
