@@ -1,0 +1,674 @@
+[
+  {
+    "nome": "Abigail",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/6/63/Abigail_Icon.png",
+    "frase": "Eu me sinto estranha hoje...",
+    "descricao": "Uma jovem com um estilo gótico que reside na loja geral, é conhecida por seu interesse em ocultismo e pela sua coloração de cabelo misteriosamente roxa.",
+    "aniversario": "13 de Outono",
+    "presentes": [
+      " Ametista",
+      " Torta de Abóbora",
+      " Pudim de Chocolate",
+      " Geodo"
+    ],
+    "odeia": [
+      " Argila",
+      " Cogumelo Comum",
+      " Pedra",
+      " Seiva"
+    ],
+    "endereco": "Vive na loja do Pierre, a leste da cidade.",
+    "link": "https://stardewvalleywiki.com/Abigail"
+  },
+  {
+    "nome": "Alex",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/7/73/Alex_Icon.png",
+    "frase": "Às vezes, eu só quero que as pessoas me levem a sério.",
+    "descricao": "Um aspirante a atleta com um grande amor por esportes, Alex é frequentemente visto malhando ou jogando bola perto de sua casa. Ele pode parecer arrogante, mas tem um lado sensível.",
+    "aniversario": "13 de Verão",
+    "presentes": [
+      " Jantar Completo",
+      " Salmão Grelhado",
+      " Ovos de Avestruz",
+      " Pepino do Mar"
+    ],
+    "odeia": [
+      " Baga de Salmão",
+      " Seiva",
+      " Obsidiana",
+      " Geleia"
+    ],
+    "endereco": "Mora na pequena casa a sudeste do Saloon.",
+    "link": "https://stardewvalleywiki.com/Alex"
+  },
+  {
+    "nome": "Elliott",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Elliott_Icon.png",
+    "frase": "Vou dedicar a próxima obra de arte a você, se você me deixar.",
+    "descricao": "Um romancista solitário e dramático que mora na praia, Elliott é um personagem elegante e culto, que sonha em publicar sua obra-prima.",
+    "aniversario": "5 de Outono",
+    "presentes": [
+      " Cauda de Lagosta",
+      " Tinta de Lulas",
+      " Bolo de Caranguejo",
+      " Romã"
+    ],
+    "odeia": [
+      " Pizza",
+      " Alho",
+      " Hashbrowns",
+      " Pedra"
+    ],
+    "endereco": "Cabana na praia, ao sul da Fazenda.",
+    "link": "https://stardewvalleywiki.com/Elliott"
+  },
+  {
+    "nome": "Haley",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Haley_Icon.png",
+    "frase": "Eu não gosto de estar suja. Me faz sentir desconfortável.",
+    "descricao": "Inicialmente superficial e materialista, Haley é uma fotógrafa que pode se tornar surpreendentemente doce e carinhosa à medida que o jogador a conhece melhor.",
+    "aniversario": "14 de Primavera",
+    "presentes": [
+      " Coco",
+      " Girassol",
+      " Salada de Frutas",
+      " Diamante"
+    ],
+    "odeia": [
+      " Argila",
+      " Geleia",
+      " Pedra",
+      " Fragmento Prismático"
+    ],
+    "endereco": "Vive na casa grande a oeste da loja do Pierre, com Emily.",
+    "link": "https://stardewvalleywiki.com/Haley"
+  },
+  {
+    "nome": "Harvey",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Harvey_Icon.png",
+    "frase": "Seja gentil com seu corpo.",
+    "descricao": "O médico hipocondríaco da Vila Pelicanos. Ele é gentil, mas muitas vezes estressado com seu trabalho e preocupado com a saúde de todos, inclusive a sua.",
+    "aniversario": "14 de Inverno",
+    "presentes": [
+      " Picles",
+      " Café",
+      " Super Refresco",
+      " Vinho"
+    ],
+    "odeia": [
+      " Pão",
+      " Prato de Peixe",
+      " Minério de Ferro",
+      " Argila"
+    ],
+    "endereco": "Clínica Médica, perto da casa do Joja Mart.",
+    "link": "https://stardewvalleywiki.com/Harvey"
+  },
+  {
+    "nome": "Leah",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Leah_Icon.png",
+    "frase": "Eu sou uma artista... Você pode me visitar a qualquer momento.",
+    "descricao": "Uma escultora que se mudou para a Vila Pelicanos em busca de paz e inspiração. Ela valoriza a natureza e tem uma paixão por arte e comida saudável.",
+    "aniversario": "23 de Inverno",
+    "presentes": [
+      " Vinho",
+      " Salada",
+      " Queijo de Cabra",
+      " Trufa"
+    ],
+    "odeia": [
+      " Pão",
+      " Alga Marinha",
+      " Ovos",
+      " Argila"
+    ],
+    "endereco": "Cabana ao sul da Floresta Cinzenta.",
+    "link": "https://stardewvalleywiki.com/Leah"
+  },
+  {
+    "nome": "Maru",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/2/23/Maru_Icon.png",
+    "frase": "Se eu não estiver consertando algo, estou construindo.",
+    "descricao": "A filha de Robin e Demetrius. Maru é uma cientista e inventora talentosa que trabalha na clínica de Harvey. Ela adora estrelas e mecânica.",
+    "aniversario": "10 de Verão",
+    "presentes": [
+      " Morango",
+      " Caldeirada de Minha Mãe",
+      " Ouro",
+      " Minério de Ferro"
+    ],
+    "odeia": [
+      " Salmão Grelhado",
+      " Argila",
+      " Pão de Alho",
+      " Geleia"
+    ],
+    "endereco": "Vive na Montanha, ao norte da fazenda.",
+    "link": "https://stardewvalleywiki.com/Maru"
+  },
+  {
+    "nome": "Sam",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/5/52/Sam_Icon.png",
+    "frase": "Você está pronto para tocar guitarra hoje?",
+    "descricao": "Um jovem músico de espírito livre que adora skate e sua banda. Ele mora com sua mãe Jodi e seu irmão Vincent.",
+    "aniversario": "17 de Verão",
+    "presentes": [
+      " Pizza",
+      " Cacto",
+      " Biscoitos",
+      " Mapple Bar"
+    ],
+    "odeia": [
+      " Pepino do Mar",
+      " Ovo de Avestruz",
+      " Lingote de Cobre",
+      " Argila"
+    ],
+    "endereco": "Vive na casa a leste da loja do Pierre.",
+    "link": "https://stardewvalleywiki.com/Sam"
+  },
+  {
+    "nome": "Sebastian",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Sebastian_Icon.png",
+    "frase": "Eu sou um recluso por natureza. Nada de errado nisso.",
+    "descricao": "Um programador de computadores e designer gráfico, Sebastian é o filho de Robin e meio-irmão de Maru. Ele tem uma personalidade sombria e é frequentemente encontrado em seu porão.",
+    "aniversario": "10 de Inverno",
+    "presentes": [
+      " Lágrima Congelada",
+      " Abóbora",
+      " Sashimi",
+      " Quartzo"
+    ],
+    "odeia": [
+      " Omelete",
+      " Caldeirada de Peixe",
+      " Maionese",
+      " Pedra"
+    ],
+    "endereco": "Porão da casa de Robin, nas Montanhas.",
+    "link": "https://stardewvalleywiki.com/Sebastian"
+  },
+  {
+    "nome": "Penny",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/b/bc/Penny_Icon.png",
+    "frase": "Sei que sou estranha, mas por favor, não me julgue.",
+    "descricao": "Penny é uma garota gentil e tímida que vive com sua mãe, Pam, em um trailer. Ela atua como tutora das crianças da cidade e adora cozinhar.",
+    "aniversario": "2 de Outono",
+    "presentes": [
+      " Diamante",
+      " Mel",
+      " Esmeralda",
+      " Papoula"
+    ],
+    "odeia": [
+      " Ostra",
+      " Lingote de Ouro",
+      " Cerveja",
+      " Argila"
+    ],
+    "endereco": "Trailer a leste do rio.",
+    "link": "https://stardewvalleywiki.com/Penny"
+  },
+  {
+    "nome": "Shane",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/b/b4/Shane_Icon.png",
+    "frase": "Não me sinto bem hoje.",
+    "descricao": "Um dos empregados da Joja Corp, Shane sofre de depressão. Ele mora no Rancho da Marnie e, após melhorar, dedica-se a cuidar dos animais.",
+    "aniversario": "20 de Primavera",
+    "presentes": [
+      " Pimentão Picante",
+      " Cerveja",
+      " Ovo de Avestruz",
+      " Pizza"
+    ],
+    "odeia": [
+      " Pepino do Mar",
+      " Lingote de Ferro",
+      " Argila",
+      " Fragmento Prismático"
+    ],
+    "endereco": "Rancho da Marnie e trabalha no Joja Mart (inicialmente).",
+    "link": "https://stardewvalleywiki.com/Shane"
+  },
+  {
+    "nome": "Emily",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Emily_Icon.png",
+    "frase": "A vida é um sonho.",
+    "descricao": "A irmã de Haley. Emily é excêntrica, criativa e tem um forte interesse por costura, cristais e espiritualidade. Trabalha meio período no Saloon.",
+    "aniversario": "27 de Primavera",
+    "presentes": [
+      " Tecido",
+      " Esmeralda",
+      " Gema de Rubi",
+      " Wool"
+    ],
+    "odeia": [
+      " Carpa",
+      " Pizza",
+      " Pão",
+      " Seiva"
+    ],
+    "endereco": "Casa a oeste da loja do Pierre, com Haley.",
+    "link": "https://stardewvalleywiki.com/Emily"
+  },
+  {
+    "nome": "Lewis",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Pierre_Icon.png",
+    "frase": "Como prefeito, tenho que manter as aparências.",
+    "descricao": "O prefeito da Vila Pelicanos. Ele está sempre ocupado com tarefas administrativas e preocupado com a reputação da cidade, e tem um relacionamento secreto com Marnie.",
+    "aniversario": "7 de Primavera",
+    "presentes": [
+      " Pimenta Fantasma",
+      " Inhame Glaciado",
+      " Feijão Verde",
+      " Diamante"
+    ],
+    "odeia": [
+      " Carpa",
+      " Argila",
+      " Pedra",
+      " Maionese"
+    ],
+    "endereco": "Mansão do Prefeito, ao lado da fazenda.",
+    "link": "https://stardewvalleywiki.com/Lewis"
+  },
+  {
+    "nome": "Marnie",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Marnie_Icon.png",
+    "frase": "É bom ter alguém novo por aqui. Estava ficando monótono.",
+    "descricao": "Dona do Rancho da Marnie, onde ela vende animais e suprimentos para animais. Ela é a tia de Shane e Jas e tem um caso secreto com o Prefeito Lewis.",
+    "aniversario": "18 de Outono",
+    "presentes": [
+      " Torta de Abóbora",
+      " Diamante",
+      " Fazenda e Campo",
+      " Couve-Flor"
+    ],
+    "odeia": [
+      " Seiva",
+      " Pedra",
+      " Argila",
+      " Vinho"
+    ],
+    "endereco": "Seu Rancho, ao sul da Floresta Cinzenta.",
+    "link": "https://stardewvalleywiki.com/Marnie"
+  },
+  {
+    "nome": "Robin",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Robin_Icon.png",
+    "frase": "Eu sou uma carpinteira, mas também gosto de criar coisas.",
+    "descricao": "A carpinteira da cidade e dona da loja de construção. Ela é casada com Demetrius e mãe de Maru e Sebastian.",
+    "aniversario": "21 de Outono",
+    "presentes": [
+      " Queijo de Cabra",
+      " Pêssego",
+      " Espetinhos de Peixe",
+      " Dureza"
+    ],
+    "odeia": [
+      " Geleia",
+      " Argila",
+      " Alga Marinha",
+      " Omelete"
+    ],
+    "endereco": "Carpintaria, ao norte das Montanhas.",
+    "link": "https://stardewvalleywiki.com/Robin"
+  },
+  {
+    "nome": "Demetrius",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Demetrius_Icon.png",
+    "frase": "Estou estudando a flora e a fauna local.",
+    "descricao": "Um cientista focado em pesquisa ecológica. Ele é casado com Robin e pai de Maru, e é conhecido por ser excessivamente analítico.",
+    "aniversario": "19 de Verão",
+    "presentes": [
+      " Feijão Verde",
+      " Arroz",
+      " Morango",
+      " Pêssego"
+    ],
+    "odeia": [
+      " Óleo",
+      " Argila",
+      " Maionese",
+      " Pedra"
+    ],
+    "endereco": "Laboratório anexo à Carpintaria.",
+    "link": "https://stardewvalleywiki.com/Demetrius"
+  },
+  {
+    "nome": "Linus",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/d/db/Linus_Icon.png",
+    "frase": "Você está perdendo a beleza da natureza.",
+    "descricao": "Um ermitão que vive em uma tenda nas montanhas. Ele prefere a vida selvagem à vida civilizada e respeita profundamente a natureza.",
+    "aniversario": "3 de Inverno",
+    "presentes": [
+      " Inhame Glaciado",
+      " Prato de Peixe",
+      " Baga de Salmão",
+      " Coco"
+    ],
+    "odeia": [
+      " Vinho",
+      " Cerveja",
+      " Pizza",
+      " Ouro"
+    ],
+    "endereco": "Tenda nas Montanhas, perto das termas.",
+    "link": "https://stardewvalleywiki.com/Linus"
+  },
+  {
+    "nome": "Willy",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/7/73/Willy_Icon.png",
+    "frase": "A pesca é uma arte, meu jovem.",
+    "descricao": "O pescador local e dono da loja de pesca no píer. Ele ama o mar e a vida marítima e é o primeiro a te dar uma vara de pescar.",
+    "aniversario": "24 de Verão",
+    "presentes": [
+      " Caldeirada de Peixe",
+      " Diamante",
+      " Baga de Salmão",
+      " Carpa Lendária"
+    ],
+    "odeia": [
+      " Argila",
+      " Maionese",
+      " Ouro",
+      " Seiva"
+    ],
+    "endereco": "Loja de pesca no píer, na praia.",
+    "link": "https://stardewvalleywiki.com/Willy"
+  },
+  {
+    "nome": "Gus",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/d/db/Gus_Icon.png",
+    "frase": "Sente-se! A comida está quase pronta.",
+    "descricao": "O proprietário e chef do Saloon Stardew. Ele é amigável e acolhedor, sempre pronto para servir uma bebida ou uma refeição.",
+    "aniversario": "8 de Verão",
+    "presentes": [
+      " Diamante",
+      " Laranja",
+      " Pescada",
+      " Pão de Alho"
+    ],
+    "odeia": [
+      " Argila",
+      " Seiva",
+      " Vinho",
+      " Couve-Flor"
+    ],
+    "endereco": "Saloon Stardew, centro da cidade.",
+    "link": "https://stardewvalleywiki.com/Gus"
+  },
+  {
+    "nome": "Clint",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/7/74/Clint_Icon.png",
+    "frase": "Eu sou o ferreiro da cidade.",
+    "descricao": "O ferreiro da cidade. Clint é responsável por aprimorar ferramentas e abrir geodos. Ele é solitário e tem uma paixão não correspondida por Emily.",
+    "aniversario": "26 de Inverno",
+    "presentes": [
+      " Esmeralda",
+      " Lingote de Ouro",
+      " Maionese",
+      " Óleo"
+    ],
+    "odeia": [
+      " Cogumelo Comum",
+      " Pão",
+      " Seiva",
+      " Pedra"
+    ],
+    "endereco": "Ferraria, a leste do centro da cidade.",
+    "link": "https://stardewvalleywiki.com/Clint"
+  },
+  {
+    "nome": "George",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/a/ad/George_Icon.png",
+    "frase": "Minha perna me incomoda o dia todo...",
+    "descricao": "Um idoso e rabugento que está confinado a uma cadeira de rodas. Ele é casado com Evelyn e avô de Alex. Pode ser um pouco mal-humorado no início.",
+    "aniversario": "24 de Outono",
+    "presentes": [
+      " Cogumelo Cozido",
+      " Alho",
+      " Feijão Verde",
+      " Omelete"
+    ],
+    "odeia": [
+      " Mirtilo",
+      " Salada",
+      " Vinho",
+      " Pedra"
+    ],
+    "endereco": "Vive com Evelyn, perto do Saloon.",
+    "link": "https://stardewvalleywiki.com/George"
+  },
+  {
+    "nome": "Evelyn",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/5/54/Evelyn_Icon.png",
+    "frase": "É um prazer tê-lo aqui, meu querido.",
+    "descricao": "A gentil avó de Alex e esposa de George. Ela ama jardinagem e é uma das pessoas mais calorosas da Vila Pelicanos.",
+    "aniversario": "20 de Inverno",
+    "presentes": [
+      " Diamante",
+      " Chocolate Quente",
+      " Tulipã",
+      " Bolo de Chocolate"
+    ],
+    "odeia": [
+      " Ostra",
+      " Cerveja",
+      " Argila",
+      " Vinho"
+    ],
+    "endereco": "Vive com George, perto do Saloon.",
+    "link": "https://stardewvalleywiki.com/Evelyn"
+  },
+  {
+    "nome": "Jodi",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Jodi_Icon.png",
+    "frase": "Eu sou uma mãe ocupada, você sabe como é.",
+    "descricao": "A mãe de Sam e Vincent, e esposa de Kent. Ela se preocupa com a família e o lar, especialmente enquanto Kent estava ausente no serviço militar.",
+    "aniversario": "11 de Outono",
+    "presentes": [
+      " Torta de Abóbora",
+      " Bolo de Chocolate",
+      " Diamante",
+      " Couve-Flor"
+    ],
+    "odeia": [
+      " Cogumelo Comum",
+      " Seiva",
+      " Pedra",
+      " Alho"
+    ],
+    "endereco": "Casa a leste da loja do Pierre.",
+    "link": "https://stardewvalleywiki.com/Jodi"
+  },
+  {
+    "nome": "Kent",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/8/86/Kent_Icon.png",
+    "frase": "Eu fui mudado pela guerra.",
+    "descricao": "O marido de Jodi e pai de Sam e Vincent. Ele retorna à Vila Pelicanos no Ano 2, sofrendo de estresse pós-traumático devido ao tempo que passou na guerra.",
+    "aniversario": "4 de Primavera",
+    "presentes": [
+      " Avelã Torrada",
+      " Pimentão Picante",
+      " Pão de Gengibre",
+      " Feijão Verde"
+    ],
+    "odeia": [
+      " Cogumelo Comum",
+      " Argila",
+      " Maionese",
+      " Geleia"
+    ],
+    "endereco": "Casa a leste da loja do Pierre (com Jodi).",
+    "link": "https://stardewvalleywiki.com/Kent"
+  },
+  {
+    "nome": "Pierre",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Pierre_Icon.png",
+    "frase": "Você é meu cliente mais valioso!",
+    "descricao": "O dono da Loja Geral do Pierre. Ele é casado com Caroline e pai de Abigail. É focado em seus negócios e tem uma rivalidade com a JojaMart.",
+    "aniversario": "26 de Primavera",
+    "presentes": [
+      " Inhame Glaciado",
+      " Feijão Verde",
+      " Omelete",
+      " Milho"
+    ],
+    "odeia": [
+      " Pão",
+      " Argila",
+      " Pizza",
+      " Pedra"
+    ],
+    "endereco": "Loja Geral do Pierre, centro da cidade.",
+    "link": "https://stardewvalleywiki.com/Pierre"
+  },
+  {
+    "nome": "Caroline",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Caroline_Icon.png",
+    "frase": "Eu tenho muitas panelas no fogo.",
+    "descricao": "Esposa de Pierre e mãe de Abigail. Ela adora jardinagem e tem uma vida secreta de cultivo de chá verde em sua sala dos fundos.",
+    "aniversario": "7 de Inverno",
+    "presentes": [
+      " Chá Verde",
+      " Peixe-Gato",
+      " Vinho",
+      " Batata Doce"
+    ],
+    "odeia": [
+      " Omelete",
+      " Argila",
+      " Cogumelo Comum",
+      " Seiva"
+    ],
+    "endereco": "Loja Geral do Pierre (fundo).",
+    "link": "https://stardewvalleywiki.com/Caroline"
+  },
+  {
+    "nome": "Wizard",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Wizard_Icon.png",
+    "frase": "Não confie em tudo que você vê.",
+    "descricao": "O Mago da Vila Pelicanos. Ele mora na Torre do Mago e lida com magia, feitiços e o portal para a Ilha Gengibre.",
+    "aniversario": "17 de Inverno",
+    "presentes": [
+      " Fragmento Prismático",
+      " Ametista",
+      " Cogumelo Roxo",
+      " Super Refresco"
+    ],
+    "odeia": [
+      " Argila",
+      " Pepino do Mar",
+      " Maionese",
+      " Pedra"
+    ],
+    "endereco": "Torre do Mago, sudoeste da Floresta Cinzenta.",
+    "link": "https://stardewvalleywiki.com/Wizard"
+  },
+  {
+    "nome": "Krobus",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/1/10/Krobus_Icon.png",
+    "frase": "Eu sou um Sombra.",
+    "descricao": "Uma criatura Sombra amigável que vive nos esgotos. Ele é um comerciante único e pode se mudar para a fazenda como colega de quarto.",
+    "aniversario": "Não tem",
+    "presentes": [
+      " Tinta de Lulas",
+      " Abóbora",
+      " Fragmento Prismático",
+      " Rabanete"
+    ],
+    "odeia": [
+      " Leite",
+      " Baga de Salmão",
+      " Ovo",
+      " Pão"
+    ],
+    "endereco": "Esgotos (Entrada após conseguir a chave).",
+    "link": "https://stardewvalleywiki.com/Krobus"
+  },
+  {
+    "nome": "Sandy",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Sandy_Icon.png",
+    "frase": "Você parece que precisa de um presente!",
+    "descricao": "A dona do Oasis, a loja do Deserto de Calico. Ela se sente sozinha no deserto, mas é muito grata pela companhia.",
+    "aniversario": "15 de Outono",
+    "presentes": [
+      " Avelã Torrada",
+      " Croissant",
+      " Batata Doce",
+      " Girassol"
+    ],
+    "odeia": [
+      " Argila",
+      " Pedra",
+      " Pão",
+      " Seiva"
+    ],
+    "endereco": "Loja do Deserto (após consertar o ônibus).",
+    "link": "https://stardewvalleywiki.com/Sandy"
+  },
+  {
+    "nome": "Pam",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Pam_Icon.png",
+    "frase": "Eu sou uma velha alcoólatra. Nada de mais.",
+    "descricao": "A mãe de Penny. Pam é a motorista do ônibus, é frequentemente rude, mas tem um coração bom. Ela gasta a maior parte do tempo no Saloon.",
+    "aniversario": "18 de Primavera",
+    "presentes": [
+      " Cerveja",
+      " Hidromel",
+      " Couve-Flor",
+      " Cerveja de Raiz"
+    ],
+    "odeia": [
+      " Omelete",
+      " Argila",
+      " Pepino do Mar",
+      " Fragmento Prismático"
+    ],
+    "endereco": "Trailer a leste do rio, perto do Saloon.",
+    "link": "https://stardewvalleywiki.com/Pam"
+  },
+  {
+    "nome": "Vincent",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Vincent_Icon.png",
+    "frase": "Eu vou ser um super-herói quando crescer!",
+    "descricao": "Um menino jovem e enérgico que vive com sua mãe e irmão em Vila Pelicanos. Ele adora brincar na floresta com Jas.",
+    "aniversario": "10 de Primavera",
+    "presentes": [
+      " Uvas",
+      " Picolé",
+      " Argila",
+      " Todos os Ovos"
+    ],
+    "odeia": [
+      " Maionese",
+      " Vinho",
+      " Todos os Artefatos",
+      " Minerais"
+    ],
+    "endereco": "Mora na casa ao sul da casa de Marnie, com Jodi e Sam.",
+    "link": "https://stardewvalleywiki.com/Vincent"
+  },
+  {
+    "nome": "Jas",
+    "icone": "https://stardewvalleywiki.com/mediawiki/images/6/68/Jas_Icon.png",
+    "frase": "Eu gosto de brincar na floresta. Lá tem muitos bugs.",
+    "descricao": "Uma garota inocente que vive no Rancho da Marnie. Ela é quieta e passa grande parte do tempo estudando ou brincando com Vincent.",
+    "aniversario": "4 de Verão",
+    "presentes": [
+      " Doce de Flocos de Neve",
+      " Bolo Rosa",
+      " Leite",
+      " Narciso"
+    ],
+    "odeia": [
+      " Cerveja",
+      " Todos os Peixes",
+      " Geleia",
+      " Vegetais Picantes"
+    ],
+    "endereco": "Mora no Rancho da Marnie, ao lado da floresta.",
+    "link": "https://stardewvalleywiki.com/Jas"
+  }
+]
