@@ -1,6 +1,6 @@
 # Imersão Dev - 🌱 Base de Conhecimento
 
-Um projeto web interativo que apresenta os personagens de dos meus jogos favoritos: Stardew Valley! Desenvolvido durante a Imersão Dev da Alura, esta aplicação permite explorar e conhecer melhor alguns dos habitantes da Vila Pelicanos! Senta-se livre para explorar e conhecer esse jogo maravilhoso.
+Um projeto web interativo que apresenta os personagens de um dos meus jogos favoritos: Stardew Valley! Desenvolvido durante a Imersão Dev da Alura, esta aplicação permite explorar e conhecer melhor alguns dos habitantes da Vila Pelicanos! Senta-se livre para explorar e conhecer esse jogo maravilhoso.
 
 <div align="center">
   
